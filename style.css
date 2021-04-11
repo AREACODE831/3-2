@@ -1,0 +1,29 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 10px auto 0 auto;
+  width: 80%;
+  background-color: #A7C8F2;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Rubik Mono One', sans-serif;
+  color: #0442BF;
+}
+
+p {
+  font-family: 'Chakra Petch', sans-serif;
+}
+
+canvas {
+  margin: auto;
+  border: 5px dotted #0442BF;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -2;
+}
